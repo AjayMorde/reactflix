@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactflix/static/css/main.38205c50.css",
+    "main.js": "/reactflix/static/js/main.c679e93e.js",
+    "static/js/787.7c42db31.chunk.js": "/reactflix/static/js/787.7c42db31.chunk.js",
+    "index.html": "/reactflix/index.html",
+    "main.38205c50.css.map": "/reactflix/static/css/main.38205c50.css.map",
+    "main.c679e93e.js.map": "/reactflix/static/js/main.c679e93e.js.map",
+    "787.7c42db31.chunk.js.map": "/reactflix/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38205c50.css",
+    "static/js/main.c679e93e.js"
+  ]
+}
